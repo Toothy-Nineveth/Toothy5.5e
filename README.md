@@ -9,3 +9,4 @@ This project and its data compilation were made possible through the efforts of:
 - **Blastervla Studios** — original app creator and platform developer
 
 - If you are my D&D group, _I see you._
+**Bella's other eye**
