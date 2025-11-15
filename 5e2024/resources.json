@@ -3816,5 +3816,11 @@
       "path": "resources/spell_enthrall_phb.rpg",
       "updated_at": "2024-12-20T18:50:46.652151"
     }
+    {
+    "id": "blade_of_disaster",
+    "name": "Blade of Disaster",
+    "path": "resources/spell_blade_of_disaster.rpg",
+    "updated_at": "2025-11-08T19:39:07.793557"
+  },
   ]
 }
